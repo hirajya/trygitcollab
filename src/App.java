@@ -3,9 +3,7 @@ public class App {
         System.out.println("Hello, World!");
         System.out.println("pogi tlga");
         System.out.println("add by rajkyutiebaby");
-        System.out.println("daym");
-        System.out.println("this is from branch 1");
-        System.out.println("this is from kevin <3");
-        System.out.println("bago to guys");
+        System.out.println("this is from branch 3");
+        System.out.println("asdasd");
     }
 }
